@@ -1,0 +1,13 @@
+{
+    
+        "cursos":[
+            {"id":1,"titulo":"Algoritimos"},
+            {"id":2,"titulo":"Estrutura de Dados"},
+            {"id":3,"titulo":"Introdução a Java"},
+            {"id":4,"titulo":"Introgução a JSON"}
+        ],
+        "alunos":[
+            
+        ]
+    
+}
